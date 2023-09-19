@@ -12,10 +12,6 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.ACTIONS_DEPLOY_KEY }}
-          # If your repository depends on submodule, please see: https://github.com/actions/checkout
-          submodules: recursive
       - name: Use Node.js 18.x
         uses: actions/setup-node@v2
         with:
@@ -23,16 +19,25 @@ jobs:
       - name: Cache NPM dependencies
         uses: actions/cache@v2
         with:
-          path: node_modules
+          # npm cache files are stored in `~/.npm` on Linux/macOS
+          path: ~/.npm
+          # path: node_modules
           key: ${{ runner.OS }}-npm-cache
           restore-keys: |
             ${{ runner.OS }}-npm-cache
       - name: Install Dependencies
         run: npm install
+      - name: Install Theme
+        run: git submodule add https://github.com/JefferyVin/hexo-theme-icarus.git themes/icarus
+      - name: Clean
+        run: npm run clean
       - name: Build
         run: npm run build
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+          user_name: JefferyVin
+          user_email: jefferyfan3a@gmail.com
           publish_dir: ./public
+          allow_empty_commit: true
