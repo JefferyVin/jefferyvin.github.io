@@ -3,23 +3,23 @@ name: Pages
 on:
   push:
     branches:
-      - main  # default branch
+      - master  # default branch
 
 jobs:
   pages:
-    runs-on: ubuntu-latest
+    runs-on: windows-latest
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.ACTIONS_DEPLOY_KEY }}
           # If your repository depends on submodule, please see: https://github.com/actions/checkout
           submodules: recursive
       - name: Use Node.js 18.x
         uses: actions/setup-node@v2
         with:
-          node-version: '18'
+          node-version: '18.17.1'
       - name: Cache NPM dependencies
         uses: actions/cache@v2
         with:
@@ -34,5 +34,5 @@ jobs:
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.ACTIONS_DEPLOY_KEY }}
           publish_dir: ./public

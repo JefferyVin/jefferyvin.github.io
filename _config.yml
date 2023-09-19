@@ -60,7 +60,9 @@ exclude: null
 ignore: null
 theme: icarus
 deploy:
-  type: 
+  type: 'git'
+  repo: git@github.com:JefferyVin/jefferyvin.github.io.git
+  branch: gh_pages
 feed:
   enable: true
   type: atom
