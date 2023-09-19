@@ -34,8 +34,9 @@ jobs:
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+          deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
           user_name: JefferyVin
           user_email: jefferyfan3a@gmail.com
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
           allow_empty_commit: true
