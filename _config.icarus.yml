@@ -1,7 +1,7 @@
 # Version of the configuration file
 version: 5.1.0
 # Icarus theme variant, can be "default" or "cyberpunk"
-variant: default
+variant: cyberpunk
 # Path or URL to the website's logo
 logo: /rocket.webp
 # Page metadata configurations
@@ -113,7 +113,10 @@ navbar:
     #     Download on GitHub:
     #         icon: fab fa-github
     #         url: https://github.com/ppoffice/hexo-theme-icarus
-# Page footer configurations
+
+article:
+    readtime: false
+    update_time: false
 
 # Search plugin configurations
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Search/
@@ -192,7 +195,7 @@ widgets:
         # URL or path to the avatar image
         avatar: kirbo.png
         # Whether show the rounded avatar image
-        avatar_rounded: false
+        avatar_rounded: true
         # Email address for the Gravatar
         gravatar: 
         # Links to be shown on the bottom of the profile widget
