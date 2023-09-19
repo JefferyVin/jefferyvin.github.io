@@ -27,8 +27,6 @@ jobs:
             ${{ runner.OS }}-npm-cache
       - name: Install Dependencies
         run: npm install
-      - name: Install Theme
-        run: git submodule add https://github.com/JefferyVin/hexo-theme-icarus.git themes/icarus
       - name: Clean
         run: npm run clean
       - name: Build
