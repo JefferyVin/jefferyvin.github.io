@@ -3,7 +3,7 @@ title: passion
 date: 2023-09-29 01:39:36
 ---
 
-## This is the passion. Ask and you shall recieve.
+## This is the passion wall. Ask and you shall recieve.
 
 -----
 
