@@ -7,4 +7,4 @@ categories:
 date: 2023-10-02 15:18:13
 ---
 
-Humanity doesn't need AI, humanity need better search engine.
+Humanity doesn't need AGI, humanity need better search engine.
