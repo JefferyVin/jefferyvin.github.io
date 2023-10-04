@@ -17,4 +17,4 @@ keycode 46 = l L Right Right
 xmodmap ~/.Xmodmap
 ```
 
-enjoy
+enjoy :)
