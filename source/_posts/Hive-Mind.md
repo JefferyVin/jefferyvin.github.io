@@ -16,7 +16,7 @@ Diffusion model???? (people are just saying the different word but they are havi
 
 --- 
 
-Question 1:
+- Question 1:
 - How do we address the same problem with different context?
 - A:
 - we will try to find something with similar context or similar problem with the same context. 
@@ -32,14 +32,14 @@ Question 1:
   
 ---
 
-Question 2:
+- Question 2:
 - How do we deal with change of information? Light is a wave. -> light is a particle as well
 - A:
 - It might be interesting to keep the outdated knowledge as a record to show how human knowledge have progressed throughout time. So maybe the users will allowed to use a old post as template. But ultimately we'll see but I'm aware of the problem.
 
 ---
 
-Question 3: 
+- Question 3: 
 - Algorithm manipulator?
 - banned
 - Human moderation (job/volunteer opportunity)
