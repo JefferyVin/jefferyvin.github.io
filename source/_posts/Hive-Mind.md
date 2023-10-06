@@ -2,7 +2,10 @@
 title: Hive mind
 tags:
   - invent
+date: 2023-10-06 11:28:04
 ---
+
+
 
 Build the social media pletform I want to use.  
 We are paying the users in the starting phase of the Hivemind until we reached a critical mass. The users are welcomed to share their thoughts anonymously and the hivemind will be able to provide them how other people in the past have thought about the subject. The users are also welcomed to just ask questions.  
