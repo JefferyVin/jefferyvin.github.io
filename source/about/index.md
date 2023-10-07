@@ -3,7 +3,7 @@ title: about
 date: 2023-09-16 17:30:44
 ---
 
-Name is Jeffery fan, im the biggest fan of all Jeffery.
+Name is Jeffery fan, im the biggest fan of all Jefferys.
 
 # Q&A
 First fictional crush?  Kurisu Makise
@@ -23,3 +23,7 @@ Least favorite food? Canned sardine
 If you had to only play one video game for the rest of your life, which would it be? Probably minecraft but it doesn’t scratch the competitive itch for me
 What non-living thing would I grab from the house if it was suddenly burning down in a fire? My phone
 What’s my pet peeve? Engaging in meaningless conversations.
+
+<details open>
+So yeah hi my name is Jeffery a big loser. I moved from china to the states in during 2nd semester of 8th grade. I am a degenerate nerd who plays/ed a lot of video games. My life sucked ever since covid hit US. Not because of covid no. 
+</details>
