@@ -22,3 +22,6 @@ Reduce the inferencing cost to optimize the neural network size. Or a neural net
 ### Object perception
 
 How to create object perception.
+
+### Logic
+In simple terms, logic is just using the context to come up with next step
