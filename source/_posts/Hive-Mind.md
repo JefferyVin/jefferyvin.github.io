@@ -7,12 +7,11 @@ date: 2023-10-06 11:28:04
 
 >what a horrible idea
 
-Build the social media pletform I want to use.  
+Build the social media platform I want to use.  
 We are paying the users in the starting phase of the Hivemind until we reached a critical mass. The users are welcomed to share their thoughts anonymously and the hivemind will be able to provide them how other people in the past have thought about the subject. The users are also welcomed to just ask questions.  
 Once user's post has beeen posted the information will be sent to the hive mind and the information becomes uneditable after (temp) a month.   
 The website will have ads but will not cater to ads aka (enagements).  
 Hivemind will be powered by some sort of NLP that connects their post with other people's post of similar type. Hivemind will also have a chatbot model that allows the user to search through the entire hivemind dataset to see how people have dealt with similar circumstance.
-
 
 --- 
 
