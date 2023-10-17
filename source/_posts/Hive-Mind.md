@@ -53,8 +53,6 @@ Concerns from chatgpt:
   - we'll see
 
 Notes:
-~~I would like it to have features like discord/QQ/Line but it shouldn't.~~  
-Diffusion model???? (people are just saying the different word but they are having the same meaning but they still want to believe that they are different in some way) kind of like a seed in diffusion model (im just bsing)
 Look at the age of the user (prevent cyberbullying)
 
 the goal of hivemind is to point a direction when person encounters a dilemma and doesn't seem like there is a correct way to choose or the correct way is the painful way. Hivemind will provide people who have experienced similar things in the past and hopefully points the right decision for the person. For example, when my mom first got sick when i was 18. (It was just me and my mom in the states) I decided to not seek help from far relatives. It turned out to be a mistake. When my mom started having strange behaviors in the hospital, I didn't recognized how bad things could be and suffered for 6 month and is still suffering to this day.
