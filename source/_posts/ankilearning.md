@@ -13,3 +13,5 @@ questions -> answers
 Training:
 If wrong -> relearn
 if right -> idk do whatever anki does
+
+Will that cause overfitting? I don't have time to check yet.
