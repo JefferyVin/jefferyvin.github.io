@@ -20,6 +20,8 @@ witness
 
 trial of character? how idk.
 
+competency hearing
+
 proof of insanity:
 impeaching testimony of prosecution witness, witness all acts of an unusual nature by the accused including both members of the accused's family and acquaintances and their opinions as to the sanity or insanity of the defendant. any record evidence of prior mental treatment, medical record. any letter written by the defendant at any time which tend to establish his mental condition. the psychologist who tested the defendant and the examining psychiatrist.
 
