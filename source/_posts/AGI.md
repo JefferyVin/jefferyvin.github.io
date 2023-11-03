@@ -5,6 +5,7 @@ tags:
 categories:
   - Thoughts
 date: 2023-09-26 02:06:33
+published: false
 ---
 
 If I create AGI, I want it to be connected with the physical world as much as possible. However, it wont be limited to the physical world. I don't think the training speed should be fast in the beginning. It will be a timely process. I want a careful selection of materials learned by my AGI. 
