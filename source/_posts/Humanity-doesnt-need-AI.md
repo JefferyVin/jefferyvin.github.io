@@ -5,7 +5,6 @@ tags:
 categories:
   - Thoughts
 date: 2023-10-02 15:18:13
-published: false
 ---
 
 Humanity doesn't need AGI, humanity need better search engine.

@@ -5,7 +5,6 @@ tags:
 categories:
   - Thoughts
 date: 2023-10-17 21:02:02
-published: false
 ---
 
 Data:

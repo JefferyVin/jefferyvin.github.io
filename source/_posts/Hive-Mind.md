@@ -3,7 +3,6 @@ title: Hive mind
 tags:
   - Who Let him cook
 date: 2023-10-06 11:28:04
-published: false
 ---
 
 >what a horrible idea
