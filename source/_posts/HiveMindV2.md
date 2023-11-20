@@ -4,7 +4,6 @@ tags:
   - invent
 toc: true
 date: 2023-10-15 22:44:16
-published: false
 ---
 
 The cleanse of mind, load your memory, without distractions. Stay focused, get all the news/information you need and get off, share the information you have and your opinions on things. Encourage discussion and debates. Discurages social media addiction.

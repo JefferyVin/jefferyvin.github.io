@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Jeffery Fan Blog</title>
+  <icon>http://jefferyvin.github.io/icon.png</icon>
+  
+  <link href="http://jefferyvin.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://jefferyvin.github.io/"/>
+  <updated>2023-11-06T06:54:50.319Z</updated>
+  <id>http://jefferyvin.github.io/</id>
+  
+  <author>
+    <name>Jeffery Fan</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Linux Xmodmap Alt Hjkl</title>
+    <link href="http://jefferyvin.github.io/2023/10/04/Linux-xmodmap-alt-hjkl/"/>
+    <id>http://jefferyvin.github.io/2023/10/04/Linux-xmodmap-alt-hjkl/</id>
+    <published>2023-10-04T06:12:55.000Z</published>
+    <updated>2023-11-06T06:54:50.319Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;.Xmodmap&lt;/p&gt;
+&lt;figure class=&quot;highlight plaintext&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>

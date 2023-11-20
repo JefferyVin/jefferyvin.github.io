@@ -5,7 +5,6 @@ tags:
 categories:
   - Thoughts
 date: 2023-09-24 00:52:02
-published: false
 ---
 
 What will I regret when I am about to die.
