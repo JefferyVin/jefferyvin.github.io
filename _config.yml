@@ -62,7 +62,7 @@ theme: icarus
 deploy:
   type: git
   repo: git@github.com:JefferyVin/jefferyvin.github.io.git
-  branch: gh_pages
+  branch: gh-pages
 feed:
   enable: true
   type: atom
