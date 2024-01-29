@@ -8,3 +8,8 @@ public/
 _multiconfig.yml
 gh-pages
 gh-pages.pub
+source/.obsidian/app.json
+source/.obsidian/appearance.json
+source/.obsidian/core-plugins-migration.json
+source/.obsidian/core-plugins.json
+source/.obsidian/workspace.json
