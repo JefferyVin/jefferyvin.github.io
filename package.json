@@ -23,6 +23,7 @@
     "hexo-generator-index": "^3.0.0",
     "hexo-generator-sitemap": "^3.0.1",
     "hexo-generator-tag": "^2.0.0",
+    "hexo-hide-posts": "^0.4.3",
     "hexo-pagination": "^2.0.0",
     "hexo-renderer-ejs": "^2.0.0",
     "hexo-renderer-inferno": "^0.1.3",

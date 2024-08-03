@@ -1,6 +1,6 @@
 ---
 title: Mantra
-hidden: 'true'
+hidden: true
 ---
 
 
