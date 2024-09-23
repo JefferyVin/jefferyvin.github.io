@@ -1,2 +1,4 @@
-http://jefferyvin.github.io/posts/Linux-xmodmap-alt-hjkl/
+http://jefferyvin.github.io/Diary/index.html
+http://jefferyvin.github.io/posts/Personal-Keybind-Settings/
 http://jefferyvin.github.io/
+http://jefferyvin.github.io/tags/Stuff/
