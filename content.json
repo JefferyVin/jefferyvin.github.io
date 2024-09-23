@@ -1,0 +1,1 @@
+{"posts":[{"title":"Linux Xmodmap Alt Hjkl","text":".Xmodmap 12345keycode 108 = Mode_switch Mode_switch Mode_switchkeycode 43 = h H Left Leftkeycode 44 = j J Down Downkeycode 45 = k K Up Upkeycode 46 = l L Right Right This in startup 1xmodmap ~/.Xmodmap enjoy :)","link":"/posts/Linux-xmodmap-alt-hjkl/"}],"tags":[],"categories":[],"pages":[]}
