@@ -12,7 +12,6 @@
     "version": "6.3.0"
   },
   "dependencies": {
-    "babel": "^6.23.0",
     "bulma-stylus": "^0.8.0",
     "hexo": "^6.3.0",
     "hexo-blog-encrypt": "^3.1.9",
