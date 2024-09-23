@@ -13,4 +13,3 @@ Played arknights, watched twitch, peeking at friend's discord call wondering wha
 Wondering if SSM is something that is worth my time. Looked at UT/UIUC admission page again. I hope I get in.
 Feel like I get stuck in a infinite loop very often (no compute -> no coding improvement -> doesnt justify getting more compute), but maybe I'm doing a bad job at getting myself out of this loop.
 I wish tomorrow be a productive day, and I will figure out what I want to do with my life.
-
