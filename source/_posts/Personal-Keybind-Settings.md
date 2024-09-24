@@ -6,6 +6,8 @@ tags:
 - Stuff
 ---
 
+This is what I use for assigning keybinds to my keyboard. Hope this helps other people out. There is a reason I picked Keyd instead of xmodmap because it allows me to use shift right command/alt hjkl to select text easier. Maybe there is a way but I just took the easy way out. 
+
 ### Mac OS
 Karabiner-Elements
 ```
@@ -206,20 +208,38 @@ Karabiner-Elements
 }
 ```
 
-
 ### Ubuntu
 Keyd
 ```
-will update once I get on PC
-```
+[ids]
 
+*
+
+[main]
+
+rightalt = layer(modi)
+rightcontrol = rightalt
+
+[modi:C]
+h = left
+k = up
+j = down
+l = right
+n = backspace
+m = delete
+, = =
+. = =
+[ = (
+] = )
+u = +
+i = -
+o = _
+p = *
+; = =
+```
 
 ### Windows
-Powertoys
+Powertoys (For my keychon k5)
 ```
-will update once I get on PC
+{"remapKeys":{"inProcess":[{"originalKeys":"20","newRemapKeys":"162"},{"originalKeys":"165","newRemapKeys":"163"},{"originalKeys":"163","newRemapKeys":"165"}]},"remapKeysToText":{"inProcess":[]},"remapShortcuts":{"global":[{"originalKeys":"163;72","newRemapKeys":"37"},{"originalKeys":"163;73","newRemapKeys":"189"},{"originalKeys":"163;74","newRemapKeys":"40"},{"originalKeys":"163;75","newRemapKeys":"38"},{"originalKeys":"163;76","newRemapKeys":"39"},{"originalKeys":"163;77","newRemapKeys":"46"},{"originalKeys":"163;78","newRemapKeys":"8"},{"originalKeys":"163;79","operationType":0,"secondKeyOfChord":0,"newRemapKeys":"160;189"},{"originalKeys":"163;85","operationType":0,"secondKeyOfChord":0,"newRemapKeys":"160;187"},{"originalKeys":"163;186","newRemapKeys":"187"},{"originalKeys":"163;219","operationType":0,"secondKeyOfChord":0,"newRemapKeys":"160;57"},{"originalKeys":"163;221","operationType":0,"secondKeyOfChord":0,"newRemapKeys":"160;48"}],"appSpecific":[]},"remapShortcutsToText":{"global":[],"appSpecific":[]}}
 ```
-
-This is what I use for assigning keybinds to my keyboard. Hope this helps other people out. There is a reason I picked Keyd instead of xmodmap because it allows me to use shift right command/alt hjkl to select text easier. Maybe there is a way but I just took the easy way out. 
-
-![](Construction.png)
