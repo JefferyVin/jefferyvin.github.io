@@ -24,6 +24,7 @@ Maybe I perform better when starved.
 The peppermint tea I bought is not high quality but I like it so far.
 Oh yeah I saw my mugshots when I was arrested. Definately not a good feeling. Also I was so fat back then (probably because living healthy wasn't my priority back then with all the stuff going on)
 There are somedays that you wish you don't wake up tomorrow, and today might be that day. (I hope people read this in the future and be like, this guy is suicidal. But I mean... It is irresponsible for everyone around you if you end your own life, life is pain, and sometime you can only pray for jesus to cut that rope.)
+I wish tomorrow to be a productive day, and I will break out of the infinite loop.
 
 
 
