@@ -191,7 +191,7 @@ widgets:
         position: left
         type: profile
         # Author name
-        author: Jeffery Fan
+        author: TMOOT0
         # URL or path to the avatar image
         avatar: kirbo.png
         # Whether show the rounded avatar image

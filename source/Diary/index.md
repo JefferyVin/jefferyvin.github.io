@@ -33,6 +33,12 @@ I dont know why I watch/do these things but somes days I feel lobotomized.
 I wonder what I should do on these kind of days.
 Wondering whether I can make a convertor from guitar songs to guitar tabs.
 
+# Sep 25, 2024
+
+Spent my time thinking about knowledge distillation.
+Somewhat productive day.
+I've been pruning my existence away.
+Somedays that you wish you don't wake up tomorrow.
 
 <br>
 <br>
