@@ -44,6 +44,11 @@ Somedays that you wish you don't wake up tomorrow.
 
 My empty ass resume. My low ass productivity. ENd me.
 
+# Sep 27, 2024
+
+Typical american is to never eat fried chicken but eat chicken nugget, pizza, and doritos. 
+What is fun? Why don't I feel fun anymore. Wait was I ever having fun?
+I wish tomorrow's me keep on staying committed and not be lazy. Let's try to make it productive two days in a row.
 
 
 <br>
