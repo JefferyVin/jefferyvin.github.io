@@ -49,7 +49,12 @@ My empty ass resume. My low ass productivity. ENd me.
 Typical american is to never eat fried chicken but eat chicken nugget, pizza, and doritos. 
 What is fun? Why don't I feel fun anymore. Wait was I ever having fun?
 I wish tomorrow's me keep on staying committed and not be lazy. Let's try to make it productive two days in a row.
+There's really not that much "News" in the science field.
 
+# Sep 28, 2024
+
+Spent the day working on duckietown stuff, it really feels like duolingo to me (in a bad way). I don't know maybe I will give it a shot tomorrow but today's experience is kind of disappointing.
+What can I do to improve my resume.. hmm
 
 <br>
 <br>
