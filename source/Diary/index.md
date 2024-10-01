@@ -56,6 +56,17 @@ There's really not that much "News" in the science field.
 Spent the day working on duckietown stuff, it really feels like duolingo to me (in a bad way). I don't know maybe I will give it a shot tomorrow but today's experience is kind of disappointing.
 What can I do to improve my resume.. hmm
 
+# Sep 29, 2024
+
+I want to start runing every morning at 7AM. That means I need to wake up at 6:30 every morning.
+
+# Sep 30, 2024
+
+OMG OMG OMG I GOT UIUC OFFER
+This is going to be the greatest comeback story of all time. I need to accept this offer before 14th.
+
+
+
 <br>
 <br>
 <br>
