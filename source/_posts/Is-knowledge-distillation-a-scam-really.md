@@ -1,5 +1,6 @@
 ---
 title: Is knowledge distillation a scam really?
+date: 2024-09-25 20:48:43
 tags:
 - incomplete
 ---
