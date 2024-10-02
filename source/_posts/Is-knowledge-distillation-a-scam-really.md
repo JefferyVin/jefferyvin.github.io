@@ -40,11 +40,6 @@ But does distillation really help in practical terms? Or is it merely another fo
 
 ### 4. **What can be pruned or simplified during distillation?**
 
-- Is distillation actually effective?
-- Is distillation better than training directly from the original dataset?
-- Is distillation just adding extra training epochs?
-- What can we omit during the distillation phase?
-
 ## Instincts on Distillation’s Future
 
 From what I’ve observed, knowledge distillation works best in specific contexts, such as compressing extremely large models or adapting models for real-time deployment. However, applying it to every part of the model might be overkill. The challenge lies in figuring out which components of a neural network truly need to be distilled and which can be simplified or discarded without losing essential information.
