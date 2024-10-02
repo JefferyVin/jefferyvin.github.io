@@ -65,7 +65,9 @@ I want to start runing every morning at 7AM. That means I need to wake up at 6:3
 OMG OMG OMG I GOT UIUC OFFER
 This is going to be the greatest comeback story of all time. I need to accept this offer before 14th.
 
+# Oct 1, 2024
 
+I was torn about this offer i recieved.
 
 <br>
 <br>

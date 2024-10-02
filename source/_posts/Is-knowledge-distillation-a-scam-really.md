@@ -1,7 +1,7 @@
 ---
 title: Is knowledge distillation a scam really?
-date: '2024-09-25 19:13:51'
 tags:
+- incomplete
 ---
 
 ## Motif
@@ -49,6 +49,8 @@ But does distillation really help in practical terms? Or is it merely another fo
 From what I’ve observed, knowledge distillation works best in specific contexts, such as compressing extremely large models or adapting models for real-time deployment. However, applying it to every part of the model might be overkill. The challenge lies in figuring out which components of a neural network truly need to be distilled and which can be simplified or discarded without losing essential information.
 
 **Dropout** and other regularization techniques suggest that many neural networks are overparameterized. This raises the question: Can we selectively distill important channels or pathways while trimming down the rest, instead of distilling the entire model? The key to effective distillation might lie in finding the optimal balance between compression and preservation.
+
+## Research
 
 ## Conclusion
 

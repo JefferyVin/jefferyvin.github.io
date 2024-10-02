@@ -23,3 +23,20 @@ Maybe the blackbox nature of machine learning. Fine-tuning might be able to "Pro
 
 # Experience during the class
 
+# Log
+```
+Sep 28
+Sep 28 Signed contract on day 1 roughly
+2pm worked on exercises_braitenberg
+Late night submitted final answer with passing score 1.5 meter
+
+Sep 29 
+Started looking at modcon notebook
+
+Spe 30
+watched lecture video
+
+Oct 1
+Tested modcon notebook but results aren't good
+
+```
