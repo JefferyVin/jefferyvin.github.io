@@ -69,6 +69,10 @@ This is going to be the greatest comeback story of all time. I need to accept th
 
 I was torn about this offer i recieved.
 
+# Oct 2, 2024
+
+Dad made me feel bad yesterday, I realized I want to understand things deep and with a steady foundation.
+
 <br>
 <br>
 <br>
