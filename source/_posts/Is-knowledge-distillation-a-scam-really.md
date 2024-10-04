@@ -34,11 +34,9 @@ But does distillation really help in practical terms? Or is it merely another fo
 
 ### 1. **Is distillation better than training directly on the original dataset?**
 
-### 2. **Is distillation just adding extra epochs?**
+### 2. **What parts of the model benefit most from distillation?**
 
-### 3. **What parts of the model benefit most from distillation?**
-
-### 4. **What can be pruned or simplified during distillation?**
+### 3. **What can be pruned or simplified during distillation?**
 
 ## Instincts on Distillation’s Future
 
@@ -47,6 +45,15 @@ From what I’ve observed, knowledge distillation works best in specific context
 **Dropout** and other regularization techniques suggest that many neural networks are overparameterized. This raises the question: Can we selectively distill important channels or pathways while trimming down the rest, instead of distilling the entire model? The key to effective distillation might lie in finding the optimal balance between compression and preservation.
 
 ## Research
+
+Experiment 1:
+
+Models in https://huggingface.co/Hifo/KDExperiment/tree/main
+| Teacher Model | Teacher Accuracy | Distil Model | Distil Accuracy | Raw Student Accuracy |
+| ------------: | ---------------: | -----------: | --------------: | -------------------: |
+| ResNet-50 | 84.70% | ResNet-18 | 77.41% | 76.48% |
+
+
 
 ## Conclusion
 

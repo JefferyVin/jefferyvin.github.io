@@ -73,6 +73,11 @@ I was torn about this offer i recieved.
 
 Dad made me feel bad yesterday, I realized I want to understand things deep and with a steady foundation.
 
+# Oct 3, 2024
+
+Ok productivity on KD, looked through some faculty in uiuc, dont know who I want to work with. I do have some inferiority complex academic wise.
+I want to read all the kd paper tomorrow so time to sleep.
+
 <br>
 <br>
 <br>
