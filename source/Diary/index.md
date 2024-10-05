@@ -78,6 +78,10 @@ Dad made me feel bad yesterday, I realized I want to understand things deep and 
 Ok productivity on KD, looked through some faculty in uiuc, dont know who I want to work with. I do have some inferiority complex academic wise.
 I want to read all the kd paper tomorrow so time to sleep.
 
+# Oct 4, 2024
+
+Read 2.5 Papers on knowledge distillation. Then accidentally installed overwatch and played that for the rest of my day....
+
 <br>
 <br>
 <br>
