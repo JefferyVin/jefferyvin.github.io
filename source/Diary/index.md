@@ -82,6 +82,12 @@ I want to read all the kd paper tomorrow so time to sleep.
 
 Read 2.5 Papers on knowledge distillation. Then accidentally installed overwatch and played that for the rest of my day....
 
+# Oct 5, 2024
+
+Overwatch day with Ryan
+
+# Oct 6, 2024
+
 <br>
 <br>
 <br>
