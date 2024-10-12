@@ -88,6 +88,27 @@ Overwatch day with Ryan
 
 # Oct 6, 2024
 
+Read paper, game with Ryan
+
+# Oct 7, 2024
+
+I remembered I never had the knee jerk reflex since young age (ive faked it since at least 2015...). Well we will see if this means something.
+
+# Oct 8, 2024
+
+Tuesday
+I feel like I have polluted my training set for the past 4 days... And got caught in the Ryan Vortex again...
+I need to repent at the lost of focus wall...
+I have been told by my immigration lawyer about my lawyer, maybe I need to start a company of somesorts.
+Also my hair/head acne situation seems to go bad again, maybe I should stop using cheap shampoos.
+
+# Oct 9, 2024
+
+I basically played overwatch all day... (but at least I'm getting very good at tank!)
+I should stop blaming ryan for my lack of self control. also I think he might be avoiding me...
+
+
+
 <br>
 <br>
 <br>
