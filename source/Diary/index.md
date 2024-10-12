@@ -107,6 +107,13 @@ Also my hair/head acne situation seems to go bad again, maybe I should stop usin
 I basically played overwatch all day... (but at least I'm getting very good at tank!)
 I should stop blaming ryan for my lack of self control. also I think he might be avoiding me...
 
+# Oct 10/11, 2024
+
+I got the court case in my mind. But things are going towards a better direction. I hope things work out well in the end. 
+Still haven't heard back from UT yet, think im probably going to end up taking the UIUC MCS offer.
+For the past week things have been pretty unproductive and I think maybe my friendship with Ryan is bad for me. This pains me a lot because I really enjoy being around him. But I've been somewhat toxic during games now since I value my time a lot more... I will come back whenever I become successful and have the leisure to game again.
+
+
 
 
 <br>
