@@ -113,7 +113,14 @@ I got the court case in my mind. But things are going towards a better direction
 Still haven't heard back from UT yet, think im probably going to end up taking the UIUC MCS offer.
 For the past week things have been pretty unproductive and I think maybe my friendship with Ryan is bad for me. This pains me a lot because I really enjoy being around him. But I've been somewhat toxic during games now since I value my time a lot more... I will come back whenever I become successful and have the leisure to game again.
 
+# Oct 12, 2024
 
+I dont remember what I did hey but at least..
+
+# Oct 13, 2024
+
+Pretty productive day!
+Should I buy something for 修阿姨 for thanksgiving? hmm I'm thinking maybe a scarf but idk...
 
 
 <br>
