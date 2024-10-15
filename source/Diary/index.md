@@ -122,6 +122,10 @@ I dont remember what I did hey but at least..
 Pretty productive day!
 Should I buy something for 修阿姨 for thanksgiving? hmm I'm thinking maybe a scarf but idk...
 
+# Oct 14, 2024
+
+Finally reading the 23 papers on the torchdistil repo, some papers are good and some are not as inspiring... maybe I'm reading them wrong
+Also started going to the gym again!!!! LETSGO!!!!
 
 <br>
 <br>
