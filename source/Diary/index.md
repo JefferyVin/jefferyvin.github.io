@@ -127,6 +127,11 @@ Should I buy something for 修阿姨 for thanksgiving? hmm I'm thinking maybe a 
 Finally reading the 23 papers on the torchdistil repo, some papers are good and some are not as inspiring... maybe I'm reading them wrong
 Also started going to the gym again!!!! LETSGO!!!!
 
+# Oct 15, 2024
+
+Overwatch day
+Went to Gym
+
 <br>
 <br>
 <br>
