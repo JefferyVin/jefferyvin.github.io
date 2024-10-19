@@ -132,6 +132,28 @@ Also started going to the gym again!!!! LETSGO!!!!
 Overwatch day
 Went to Gym
 
+# Oct 16, 2024
+
+woke up at 10 am
+it is almsot 7 now
+不是学习的东西都干了个遍
+Went to Gym, body sore, so I'm considering to go to Gym on Monday Tuesday Thursday
+
+# Oct 17, 2024
+
+Basically layed on bed whole day
+
+# Oct 18, 2024
+
+7am-2pm Court
+Maybe 1 hour talk with Ryan
+sleep
+Talked with 陈伯伯, I need to be more hands on I think.
+
+# Oct 19, 2024
+がんばって!!!
+
+
 <br>
 <br>
 <br>
