@@ -141,7 +141,7 @@ Went to Gym, body sore, so I'm considering to go to Gym on Monday Tuesday Thursd
 
 # Oct 17, 2024
 
-Basically layed on bed whole day
+Basically laid on bed whole day
 
 # Oct 18, 2024
 
