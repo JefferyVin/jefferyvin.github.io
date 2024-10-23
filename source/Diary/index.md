@@ -153,6 +153,16 @@ Talked with 陈伯伯, I need to be more hands on I think.
 # Oct 19, 2024
 がんばって!!!
 
+# Oct 20, 2024
+
+
+# Oct 21, 2024
+Gym
+
+# Oct 22, 2024
+Gym
+I relized I want to go to space like a lot.
+
 
 <br>
 <br>
