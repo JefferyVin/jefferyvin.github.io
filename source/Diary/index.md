@@ -163,6 +163,16 @@ Gym
 Gym
 I relized I want to go to space like a lot.
 
+# Oct 23, 2024
+i dont remember
+
+# Oct 24, 2024
+Started working on minitorch
+minitorch task 0 complete
+
+# Oct 25, 2024
+minitorch task 1 complete
+
 
 <br>
 <br>
