@@ -173,6 +173,8 @@ minitorch task 0 complete
 # Oct 25, 2024
 minitorch task 1 complete
 
+# Oct 26, 2024
+task 2 done with outside help
 
 <br>
 <br>
