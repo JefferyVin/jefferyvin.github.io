@@ -227,8 +227,8 @@ j = down
 l = right
 n = backspace
 m = delete
-, = =
-. = =
+, = home
+. = end
 [ = (
 ] = )
 u = +

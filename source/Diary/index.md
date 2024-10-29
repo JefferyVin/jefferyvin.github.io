@@ -176,6 +176,12 @@ minitorch task 1 complete
 # Oct 26, 2024
 task 2 done with outside help
 
+# Oct 27, 2024
+Finished half of module 3 but learned a lot
+
+# Oct 28, 2024
+No passion
+
 <br>
 <br>
 <br>
