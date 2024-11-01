@@ -182,6 +182,15 @@ Finished half of module 3 but learned a lot
 # Oct 28, 2024
 No passion
 
+# Oct 29, 2024
+No passion
+
+# Oct 30, 2024
+I just remembered I technically only applied to utd... Well bad choices am i right. It's also a listen to not be lazy.
+
+# Oct 31, 2024
+Lots of distractions, I need to start focusing up or I need to write up in the lost of focus page.
+
 <br>
 <br>
 <br>
