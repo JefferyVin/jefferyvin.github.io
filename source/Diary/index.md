@@ -191,6 +191,23 @@ I just remembered I technically only applied to utd... Well bad choices am i rig
 # Oct 31, 2024
 Lots of distractions, I need to start focusing up or I need to write up in the lost of focus page.
 
+# Nov 1, 2, 3, 2024
+Worked on module 3 of minitorch, notes on lex podcast with Charan Ranganath (I think thats how you spell it). Learned how to write paper. I need to apply to a different visa.
+
+# Nov 4, 2024
+Goal for becoming a good phd candidate:
+- 3 Letters of recommendation
+- good portfolio
+
+# Nov 5, 2024
+Probation office
+
+# Nov 6, 2024
+Contacted Community service/angermanagement stuff.
+
+
+
+
 <br>
 <br>
 <br>
