@@ -2,7 +2,7 @@
 title: What should my training set be?
 date: '2024-09-28 00:26:39'
 theme: xray
-password: jz1234
+password: jz0218
 tags:
 - 随笔
 ---

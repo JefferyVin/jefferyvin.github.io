@@ -2,7 +2,7 @@
 title: "{{title}}"
 published: "true"
 theme: xray
-password: jz1234
+password: jz0218
 abstract: hidden
 categories:
 - 随笔

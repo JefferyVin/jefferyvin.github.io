@@ -2,7 +2,7 @@
 layout: page
 title: Diary
 theme: xray
-password: jz1234
+password: jz0218
 ---
 
 ### Sep 22, 2024
