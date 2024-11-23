@@ -205,6 +205,12 @@ Probation office
 # Nov 6, 2024
 Contacted Community service/angermanagement stuff.
 
+# Nov 7-22, 2024
+What have I been doing. Nothing is what it is. I need to focus up.
+For the past 2 weeks, I played A LOT of arknights, 
+Went over yann lecun's lecture on how to reproduce human level intelligence
+Decided to buy a guitar
+Over fixated on getting fit
 
 
 
