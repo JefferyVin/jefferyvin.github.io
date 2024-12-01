@@ -212,6 +212,25 @@ Went over yann lecun's lecture on how to reproduce human level intelligence
 Decided to buy a guitar
 Over fixated on getting fit
 
+# Nov 23, 2024
+I dont know what I did
+
+# Nov 24, 2024
+Anger management class, I was tired
+
+# Nov 25, 2024
+Originally planned to Community service but I was too tired
+
+# Nov 26, 2024
+Originally planned to community service but I didnt wake up in time so I went to gym
+
+# Nov 27, 2024
+Community service, now im tired
+Welp at least I got things done
+
+# Nov 28, 2024
+How can I make a difference in machine learning field?
+How can LLM reach human level intelligence?
 
 
 <br>

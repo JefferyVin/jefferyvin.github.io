@@ -83,5 +83,5 @@ Never despair of God's mercy.
 Firstly, Question the requirements, make the reqirements less dumb
 Secondly, Try to delete as much as possible (if youre note forced to put back 10% of what you delete, you are not deleting enough)
 Thirdly, Try to optimize/simplify it
-Fourthly, Any given thing can be sped up. However fast you think it can be doen, whatever the speed it's being done, it can be done faster. But you shouldnt speed things up untiol you've tried to delete it and optimize.
+Fourthly, Any given thing can be sped up. However fast you think it can be done, whatever the speed it's being done, it can be done faster. But you shouldnt speed things up until you've tried to delete it and optimize.
 Lastly, Automate it. 
