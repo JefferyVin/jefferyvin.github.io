@@ -232,6 +232,11 @@ Welp at least I got things done
 How can I make a difference in machine learning field?
 How can LLM reach human level intelligence?
 
+# Time between Nov 29 - Dec 10
+David Xu introduced me to diffusion
+
+# Dec 11, 2024
+I've decided to write a library for my own machine learning experiments to make my life easier
 
 <br>
 <br>
