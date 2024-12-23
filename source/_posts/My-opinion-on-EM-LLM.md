@@ -1,5 +1,6 @@
 ---
 title: My opinion on LLM with Episodic Memory
+date: 2024-11-09 22:37:00
 published: 'true'
 theme: xray
 password: jz0218

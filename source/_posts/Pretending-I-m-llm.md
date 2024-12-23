@@ -1,5 +1,6 @@
 ---
 title: Pretending I'm llm
+date: 2024-11-30 22:57:43
 published: 'true'
 theme: xray
 password: jz0218

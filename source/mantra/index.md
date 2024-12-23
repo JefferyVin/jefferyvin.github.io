@@ -1,8 +1,8 @@
 ---
-title: Mantra
-hidden: 'true'
+layout: page
+title: mantra
+tags:
 ---
-
 
 ### The Rule
 
