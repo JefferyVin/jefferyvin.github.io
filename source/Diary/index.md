@@ -238,6 +238,9 @@ David Xu introduced me to diffusion
 # Dec 11, 2024
 I've decided to write a library for my own machine learning experiments to make my life easier
 
+# Dec 22, 2024
+I should start writing diary again, also i think getting on my pc every day is not a good idea.
+
 <br>
 <br>
 <br>
