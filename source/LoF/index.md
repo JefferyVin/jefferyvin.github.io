@@ -5,8 +5,4 @@ theme: xray
 password: jz0218
 ---
 
-I've heard that Jensen Huang have his future planned out so I want to plan out my future.
-
-I will be doing masters from spring 2025 to spring 2026 at UIUC.
-
-I want to 
+I have been extremely uncareful with the things I have been doing for the past month. Yes It's literally been a month since I have done anything productive. I need to get started on something. I dont want to become a nobody. But the thing is I have completely no idea at all what to do. I have definately not the best version of my self right now. I cannot blame this on other people for my decisions as I am the one who decides my actions. 
