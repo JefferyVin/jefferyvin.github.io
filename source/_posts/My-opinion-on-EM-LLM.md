@@ -2,8 +2,6 @@
 title: My opinion on LLM with Episodic Memory
 date: 2024-11-09 22:37:00
 published: 'true'
-theme: xray
-password: jz0218
 abstract: hidden
 categories:
   - 随笔
@@ -27,4 +25,3 @@ Internal Models of Events are formed with both Semantic and Episodic memory at p
 # Thoughts
 
 - wait do human store episodic memories for training while sleeping? 
-- 

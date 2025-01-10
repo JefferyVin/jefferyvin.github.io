@@ -241,6 +241,9 @@ I've decided to write a library for my own machine learning experiments to make 
 # Dec 22, 2024
 I should start writing diary again, also i think getting on my pc every day is not a good idea.
 
+# Jan 9, 2025
+No thoughts head empty, today is like a pretty bad day. My energy level is just not it probably because of the lack of sleep. Maybe I should sleep earlier and pray tomorrow might be better. (but honestly that just sounds like procrastinating)
+
 <br>
 <br>
 <br>

@@ -2,6 +2,8 @@
 title: Personal Keybind Settings
 date: '2024-09-23 05:07:30'
 published: 'true'
+theme: xray
+password: jz0218
 tags:
 - Stuff
 ---
