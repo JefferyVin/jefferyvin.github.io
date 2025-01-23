@@ -1,5 +1,6 @@
 ---
 title: My predictions about AI from May 2022
+date: 2024-12-23 22:37:00
 published: 'true'
 categories:
   - 随笔
